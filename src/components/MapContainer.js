@@ -14,7 +14,6 @@ class MapContainer extends Component {
                 
                 </CardSection>
                 <MapView
-                  style={styles.map}
                   region={{
                     latitude: 37.78825,
                     longitude: -122.4324,
